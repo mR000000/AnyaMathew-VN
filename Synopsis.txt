@@ -1,0 +1,30 @@
+Počinjemo mirno i nenametljivo. Prikazuje se škola spolja, u jutarnjem svetlu, kao potpuno obična zgrada po potpuno običnom danu. Nema velikog teksta niti objašnjenja — atmosfera sama govori da je ovo rutina, nešto što se ponavlja svakog jutra.
+
+Ulazimo u učionicu tokom kontrolnog iz matematike. Učenici pišu u tišini dok profesor šeta između klupa. Matthew sedi mirno, koncentrisan, ali bez nervoze. Na papiru se vide jednostavni matematički zadaci, tipični za njegov uzrast. Vidimo da mu je gradivo poznato i prelako; ne reaguje s bahatošću, već sa tihim konstatujućim tonom.
+
+Matthew završava kontrolni pre ostalih i predaje ga bez ikakvog komentara. Profesor ga pusti da izađe, kao da je već i navikao. Dok ostali i dalje pišu, Matthew ustaje, uzima ranac i izlazi iz učionice. Ide kroz hodnik škole. Svi su i dalje na časovima, Matthew se izdvaja.
+
+<GAMEPLAY>
+Prelazimo u lagani gameplay segment u kome igrač vodi Matthew-a kroz školu, otkriva interactables i još par uvodnih mehanika. Izlazi napolje i kreće putem kući. Nema izazova niti ciljeva — samo kretanje i prostor za posmatranje. Usput se mogu pronaći kratki readable elementi poput oglasnih tabli. Svaki od njih ima po jednu ili dve rečenice koje više govore o Matthew-u nego o samom svetu.
+
+Dolazi kući. Uvodi novi ton. Matthew ulazi u mali, iznajmljeni stan blizu škole. Vrata se zatvaraju i nastaje tišina. Prostor je skroman, ali uredan, i deluje kao mesto koje mu pruža mir. Ovde se prvi put pojavljuje njegov portret uz tekst, zajedno sa suptilnim ekspresijama. Ovde prvi put vidimo da on priča. Njegove misli su kratke i smirene — ovde je mirno, ovde može da bude sam.
+
+Stan funkcioniše kao mali istraživački prostor. Igrač može da se kreće i da interaguje sa nekoliko objekata. Svaka interakcija otkriva sitne detalje o Matthewovoj ličnosti — njegovu sklonost ka učenju, njegovu distancu od ljudi, njegovu naviku da posmatra svet sa strane. Telefon, koji je tog jutra zaboravio, deluje beznačajno u početku.
+
+Telefon zatim vibrira i stiže poziv od roditelja. Oni pitaju kako mu ide u školi, da li se navikao, i uz to, gotovo usputno, da li je upoznao nekoga ili možda neku devojku. Njihov ton je brižan. Matthew im kaže da je sve u redu i da se navikava. To je istina, ali ne potpuna. Njegove unutrašnje misli jasno pokazuju da ne zna kako da im objasni stvarno stanje.
+
+Dan se završava tiho, bez velikih odluka ili zaključaka. Jedna kratka misao nagoveštava da će možda sutra biti drugačije, ali bez ikakvog obećanja. Ekran polako bledi i prelazi u sledeći dan.
+
+Sledećeg jutra Matthew se vraća u školu. Gameplay se odvija kroz poznate prostore, ali sada sa suptilno drugačijim osećajem. Ulazi u učionicu. Tamo sedi i kontemplira, pa kasnije i primeti jednu devojku iz razreda kako sedi u svojoj klupi, okružena drugaricama. One razgovaraju i smeju se, potpuno prirodno. Matthew ih posmatra sa distance. On i ta devojka su više samo na ćao ćao, nikada nisu zaista razgovarali. Njegove misli nisu romantične niti emotivne — on samo postaje svestan distance između sebe i ostalih i zaista se vidi kontrast između njega i popularnih klinaca.
+
+Njegovo ovo unutrašnje kontempliranje (dok smoreno gleda onako dok drzi glavu na ruci kao) naglo se prekida kada ga profesor prozove da izađe na tablu, profesor biologije, Gordon. Matthew zna zadatak i brzo ga rešava. Profesor ga pita još nešto, pa on pobrka reči, pa na kraju i napravi neku šalu koja je onako ackward, i onda se deo razreda sa jedne strane počne onako cerekati malo. Profesor ga posle toga šalje nazad na mesto. U razredu se čuje nekoliko tihih smehova, ne zlonamernih, ali dovoljno glasnih da učine trenutak neprijatnim. Matthew shvata da je bio previše u centru pažnje.
+
+Kad se vrati na svoje mesto, Matthew na trenutak primećuje da ga ona devojka gleda onako zbunjeno malo kao. Ona se ne smeje i ne reaguje, već ga samo posmatra na kratko. To nije trenutak bliskosti niti razumevanja, već prvi put da su oboje svesni jedno drugog u istom prostoru. Ništa nije rekao na to, samo je primetio.
+
+Zvono prekida trenutak i razred se vraća u uobičajeno. Sve spolja izgleda isto kao i pre, ali Matthew u sebi zna da se nešto pomerilo, makar neznatno. On seda na svoje mesto sa tihom, ali jasnom odlukom da danas još nije vreme za korak napred. Scena se završava bez velikog zaključka, ostavljajući prostor za dalji razvoj i za događaje koji tek dolaze.
+
+<GAMEPLAY>
+Matthew priča sa svojim drugarom na velikom odmoru kao.
+
+KRAJ DEMO-A
+Bedroom scene.
