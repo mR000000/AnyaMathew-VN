@@ -1,0 +1,5 @@
+- Swipe reveal text box-a kod dijaloga od leva ka desno sa ease-in i ease-out, pa tekst kreće da se ispisuje tipa sekund nakon što krene animacija za text box (možda i idle animacija za text box) [ ]
+
+- Kad je u njenom telu, kao ekspresija se pojavljuje kao duhovna verzija njega kada priča ovako monolog, ali kada priča sa nekim, Anya [ ]
+
+- Nekad imamo kao dijalog sa dva expression base-a, ali da pozadina nije mapa već neka nova nacrtana pozadina, kao klasični VN-ovi [ ]
